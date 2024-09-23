@@ -6,4 +6,5 @@ Proyecto presentado para
 
 La web incluye las estaciones de control de la calidad del aire. Al proporcionar información visual y detallada, la aplicación permite a los responsables locales tomar decisiones más informadas y crear conciencia entre los ciudadanos sobre la importancia de reducir la huella de carbono para mitigar el cambio climático y mejorar la calidad del aire en sus comunidades.
 
+**Demo** https://youtu.be/Q3_7GPeLHo8
 
